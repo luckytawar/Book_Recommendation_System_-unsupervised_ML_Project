@@ -1,7 +1,9 @@
 # Book_Recommendation_System_-unsupervised_ML_Project
 Project Name
+
 Book Recommendation System ML Unsupervised Learning
 Programming language: Python
+
 Libraries used: Numpy, Pandas, Matplotlib, Seaborn, sklearn.metrics.pairwise.cosine_similarity, scipy.stats.pearsonr, sklearn.neighbors.NearestNeighbors
 NoteBook: Google Colab
 Dataset Source: Almabetter
